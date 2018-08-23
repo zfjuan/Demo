@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/zfjuan/Demo/raw/master/智慧名门.ipa</string>
+					<string>https://github.com/zfjuan/Demo/raw/master/Ros.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ManagerProject</string>
+				<string>智慧名门</string>
 			</dict>
 		</dict>
 	</array>
